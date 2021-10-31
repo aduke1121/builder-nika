@@ -1,3 +1,6 @@
 [submodule "themes/tnb2021"]
 	path = themes/tnb2021
 	url = git@github.com:TNB3000/hugo-tnb2021.git
+[submodule "themes/simplecard2021"]
+	path = themes/simplecard2021
+	url = git@github.com:TNB3000/hugo-simplecard2021.git
