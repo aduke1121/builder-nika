@@ -1,11 +1,11 @@
 ---
-title: "Nika's Home Page"
+title: "Nika Khanjani"
 description: "Nika Khanjani is a Filmmaker in Montreal"
 headline: "nika khanjani"
 subhead: "master amateur"
-handle: "hugo-theme-codex"
 posterImage: "/images/nika-khanjani-portrait.jpg"
 nav: ""
+bread: "Home"
 ---
 Allah-u-abha, hello, nǐ hǎo, bienvenue. I'm a [filmmaker](/art) and [therapist](/therapy) working in Tiohtià:ke / Montréal. I was born in Esfahan, grew up in Houston, and have lived all over. I'm married and have a daughter.
 

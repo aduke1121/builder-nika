@@ -5,6 +5,7 @@ headline: "Free World Pens (2015)"
 subhead: "A Film About Time"
 posterImage: "/images/fwp1.jpg"
 nav: "art"
+crumb: "fwp"
 slug: "free-world-pens"
 year: "2015"
 ---

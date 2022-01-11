@@ -1,10 +1,11 @@
 ---
 title: "Film and Video Art in Montreal by Nika Khanjani"
 description: "About my Art Practice"
-headline: "Image, Sound, & Words"
+headline: "Image & Words"
 subhead: "by nika khanjani"
 posterImage: "/images/fwp3.jpg"
 nav: "art"
+crumb: "Art"
 kind: "section"
 ---
 I've been making film and video art since 2002.
