@@ -6,6 +6,15 @@ Clone to local, `cd` into project root and enter `hugo server -D` to compile and
 
 NOTE: If you don't have [Hugo](https://hugo.dev) installed on your system, use `homebrew` and the `brew install hugo` command. Learn about [homebrew here](https://brew.sh).
 
+## Using the SubModule
+This builder users a base theme from a SubModule. To pull the submodule, you need to run:
+
+````
+git submodule update --init --recursive
+````
+
+after you clone the site.
+
 ## To Deploy
 Simply commit changes and push back to the `main` branch. Site will be compiled and visible automatically at:
 
