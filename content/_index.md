@@ -7,10 +7,11 @@ posterImage: "/images/nika-khanjani-portrait.jpg"
 nav: ""
 bread: "Home"
 ---
-Hi hi. I'm Nika, a [filmmaker](/art) and trauma [therapist](/therapy) working in Tiohtià:ke / Montréal.
+Hi hi. I'm Nika, an [artist](/art) and trauma [therapist](/therapy) working in Tiohtià:ke / Montréal.
 
 I was born in Isfahan, grew up in Houston, skooled in NYC, and have lived all over.
 
+I update this page/site regularly : Lots of news coming up soon
 ## What I'm Working On
 - an exciting residency coming up March 7th with this [Clinic](https://www.longspellherbs.com)
 - My [opera](http://smcq.qc.ca/smcq/fr/evenement/43749/Triptyque_Mécénat_Musica_Prix_3_Femmes) is still live on SMCQ! This piece was almost two years in production.
