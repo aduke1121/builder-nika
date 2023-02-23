@@ -2,19 +2,24 @@
 title: "Vanishing Point"
 description: "An opera"
 headline: "Vanishing Point (2021)"
-subhead: "A mama/daughter opera for BIPOC performers"
-posterImage: "/images/fwp1.jpg"
+subhead: "Commissioned Libretto
+by Musique 3 Femmes"
+posterImage: "/images/3femmes.png"
 nav: "art"
 crumb: "vp"
 slug: "vanishing-point"
 year: "2021"
 ---
+
+Incredible initiative by this national treasure [M3F](https://www.musique3femmes.com)
 ## Synopsis
-A proud, recently retired woman and her adult daughter square-off in a grand but faded Montréal apartment. It’s a familiar and tiresome routine for the two of them, but today their complex give-and-take will open a door to an entirely unexpected, terrifying, and potentially wondrous future neither are fully ready to enter.
+In this intergenerational work about filial love, dementia, and radical compassion, the new opera "Vanishing Point" delicately explores complex human relationships and plunges us into a moment of rare intensity.
 
-**Vanishing Point** is a 30-minute opera for soprano and mezzo-soprano that I created in collaboration with composer [Parisa Sabet](http://www.parisasabet.com/). We have taken elements from our shared history as Iranian immigrants to craft a challenging piece of complex and nuanced emotional shifts, a whiplash of tenderness and bitterness, and a sober question of whether we can reframe a crisis into an opportunity to show up fully present for someone we love even as we watch them slip away. Densely crafted around themes of loss, migration, and unresolved trauma, it asks audiences to bring their attention, patience, and empathy to an emotional canvas that is perhaps uncommon in traditional opera.
+**Vanishing Point** is a 30-minute opera for soprano and mezzo-soprano that I created in collaboration with composer [Parisa Sabet](http://www.parisasabet.com/).
 
-We have designed this piece as a vehicle exclusively for BIPOC performers.
+We took elements from our shared history as Iranian immigrants to craft a challenging piece of complex and nuanced emotional shifts, a whiplash of tenderness and bitterness, and a sober question of whether we can reframe a crisis into an opportunity to show up fully present for someone we love even as we watch them slip away. Densely crafted around themes of loss, migration, and unresolved trauma, it asks audiences to bring their attention, patience, and empathy to an emotional canvas that is perhaps uncommon in traditional opera.
 
-{{< vimeo 143214438 >}}
+We have designed this piece as a vehicle for BIPOC performers.
+
+{{< youtube Oin8_JzQV6w >}}
 

@@ -2,7 +2,7 @@
 title: "Free World Pens"
 description: "A Film About Time"
 headline: "Free World Pens (2015)"
-subhead: "A Film About Time"
+subhead: "A Film About Time Served Apart"
 posterImage: "/images/fwp1.jpg"
 nav: "art"
 crumb: "fwp"
@@ -10,7 +10,7 @@ slug: "free-world-pens"
 year: "2015"
 ---
 ## Synopsis
-Free World Pens is a film about family and solitary confinement.  The film takes shape through letters from a man incarcerated in Texas, whose words echo in the mind of his sister as she walks freely through Montreal.
+Free World Pens is a film about family and solitary confinement.  The film takes shape through letters from a man incarcerated in Texas, whose words echo in the mind of his sister as she moves through her life in Montreal.
 
 For poster and further details see freeworldpens.com
 

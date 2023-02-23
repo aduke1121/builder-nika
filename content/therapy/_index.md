@@ -2,19 +2,32 @@
 title: "Somatic Experiencing Therapy for Artists"
 description: "About my Therapy Practice"
 headline: "Somatic Experiencing"
-subhead: "for Artists, for Everyone"
-posterImage: "/images/fwp1.jpg"
+subhead: "for Artists, for Creatives, for Everyone"
+posterImage: "/images/tiger_face.jpg"
 nav: "therapy"
 crumb: "Therapy"
 kind: "section"
 ---
-Somatic experiencing (SE) is a method of alternative therapy for treating trauma and stressor-related disorders like PTSD. The primary goal of SE is to modify the trauma-related stress response through bottom-up processing.
 
-I started my training in 2020, and will be fully certified in spring of 2023.
+Somatic Experiencing (SE) is a gentle step-by-step approach to the renegotiation of trauma.
 
-I am currently seeing patients at a reduced rate while I complete my training.
+My goal in this work is to help clients:
+- increase resilience
+ - resolve trauma symptoms
+ - expand pleasure
+ - get curious / stay curious
+
+
+
+I work 1:1 with clients and offer an emerging touch practice.
+
+I also facilitate group workshops, particularly on the role of nervous system regulation in social justice work.
+
+Some relevant training I've done includes [Somatic Abolitionism](https://www.resmaa.com/movement) with (Resmaa Menakem, author of _My Grandmother’s Hands_), and training as a certified facilitator in the [Trauma of Money](https://www.thetraumaofmoney.com), a compassionate approach to create financial safety and well-being.
+
+For creatives, I use my experience as an award-winning filmmaker, writer and director to support those who are telling difficult, important stories. Together we grow their capacity and resilience in order to serve their creative work with less sufferring.
 
 I'd love to talk about what you're working on.
 
-
+Email me at [nkhanjani@gmail.com](mailto:nkhanjani@gmail.com) to set up a conversation.
 
