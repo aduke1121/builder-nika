@@ -27,5 +27,7 @@ For creatives, I use my experience as an award-winning filmmaker, writer and dir
 
 I'd love to talk about what you're working on.
 
-Email me at [nkhanjani@gmail.com](mailto:nkhanjani@gmail.com) to set up a conversation.
+You can email me at [nika@longspell.com](mailto:nika@longspell.com) or book a [free 20-minute curiosity call online](https://longspell.janeapp.com/#/staff_member/2).
+
+<a href="https://longspell.janeapp.com/#/staff_member/2"><button class="button-9">Book Online Now</button></a>
 
