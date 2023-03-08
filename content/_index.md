@@ -9,7 +9,7 @@ bread: "Home"
 ---
 Hi hi. I'm Nika, an [artist](/art) and trauma [therapist](/therapy) working in Tiohtià:ke / Montréal.
 
-I was born in Isfahan, grew up in Houston, skooled in NYC, and have lived all over.
+I was born in Isfahan, grew up in Houston, was skooled in NYC, and have lived all over.
 
 I update this page/site regularly : Lots of news coming up soon
 ## What I'm Working On
