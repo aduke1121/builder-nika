@@ -17,7 +17,7 @@ My goal in this work is to help clients:
  - expand pleasure
  - get curious / stay curious
 
-I work 1:1 with clients and offer an emerging touch practice.
+I work 1:1 with clients, in-person in Montreal and online.
 
 I also facilitate group workshops, particularly on the role of nervous system regulation in social justice work.
 

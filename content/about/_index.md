@@ -10,6 +10,8 @@ kind: "section"
 ---
 > **Nika Khanjani** (Persian: نیکا خانجانی), is an Iranian-American-Canadian multidisciplinary storyteller and SEP, working as an immigrant-guest on unceded Kanien’kehá:ka Territory (Montreal).
 
+I was born in Isfahan, raised in Houston, skooled in NYC, and have lived all over.
+
 I pull from my lived experience as an immigrant growing up in a diverse working-class community to tell stories of human resilience and how we heal from adversity.
 
 I continue my studio practice and making commissioned works, alongside a  private practice as a trauma therapist.

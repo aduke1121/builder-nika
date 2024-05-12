@@ -9,8 +9,6 @@ bread: "Home"
 ---
 Hi hi. I'm Nika, an [artist](/art) and trauma [therapist](/therapy) working in Tiohtià:ke / Montréal.
 
-I was born in Isfahan, raised in Houston, skooled in NYC, and have lived all over.
-
 ## What I'm Working On
 - **May 2024**: My 2014 film [Free World Pens](/art/free-world-pens/) is available for a limited time on the documentary streaming site [tenk.ca](https://www.tenk.ca/en/documentaires/intimacy/free-world-pens)
 - **May 11, 2024**: The world premiere of [Fragments](http://cantabilechambersingers.com/2024/03/24/a-prism-of-sound-may-11th/), composed by Saman Shahi, and performed by the stunning [Cantabile Chamber Singers](http://cantabilechambersingers.com) in Toronto. I was commissioned to write the poetry.
