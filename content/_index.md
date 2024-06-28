@@ -7,7 +7,7 @@ posterImage: "/images/nika-khanjani-portrait.jpg"
 nav: ""
 bread: "Home"
 ---
-Hi hi. I'm Nika, an [artist](/art) and trauma [therapist](/therapy) working in Tiohtià:ke / Montréal.
+Hi hi. I'm Nika, an [artist](/art) and [somatic practitioner](/somatics) working in Tiohtià:ke / Montréal.
 
 ## What I'm Working On
 - **May 2024**: My 2014 film [Free World Pens](/art/free-world-pens/) is available for a limited time on the documentary streaming site [tenk.ca](https://www.tenk.ca/en/documentaires/intimacy/free-world-pens)
