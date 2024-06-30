@@ -42,3 +42,18 @@ git submodule add git@github.com:TNB3000/hugo-tnb2021.git themes/tnb2021
 And start hacking away at overriding the base theme, as per Hugo documentation:
 
 https://bwaycer.github.io/hugo_tutorial.hugo/themes/customizing/
+
+## Updating SimpleCard2021
+The original template is a submodule.
+
+To make changes do the following:
+```angular2html
+$ cd your_submodule
+$ git checkout master
+<hack,edit>
+$ git commit -a -m "commit in submodule"
+$ git push
+$ cd ..
+$ git add your_submodule
+$ git commit -m "Updated submodule"
+```

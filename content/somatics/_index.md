@@ -4,8 +4,8 @@ description: "About my Therapy Practice"
 headline: "Somatic Experiencing"
 subhead: "for Artists, for Creatives, for Everyone"
 posterImage: "/images/tiger_face.jpg"
-nav: "therapy"
-crumb: "Therapy"
+nav: "somatics"
+crumb: "Somatics"
 kind: "section"
 ---
 
